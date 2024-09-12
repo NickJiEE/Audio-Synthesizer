@@ -3,6 +3,13 @@ An **audio synthesizer** that converts mechanical or electrical energy into soun
 
 The controls provided by a synthesizer depend on the kind of applications the synthesizer is designed for. While some synthesizer controls are used adjust the most basic physical properties of the generated sound output, namely, the amplitude (which determines the loudness or intensity) and the pitch (the audio frequency, which determines how shrill the generated sound is), others serve more sophisticated purposes such as changing the resonant frequency of the low-pass filter through which the input signal is passed. 
 
+**Installation:**
+
+- Run the Synthesizer Project installer file
+- If prompted to install dependencies such as DSP System toolbox, do so
+- Project should appear in MATLAB apps
+- Run the app
+
 **Envelopes:** a table of data points that is output over a specified period of time.
 An x-y plot that shows how any given attribute of the output signal (such as pitch) should evolveover time. 
 Envelopes enable a synthesizer to change sound characteristics **automatically** over time, unlike sliders that need to be varied manually.
@@ -51,6 +58,7 @@ Write a comprehensive report that covers the following:
 2. Detailed description of all synthesizer controls.
 3. Explanation of the applied concepts from your class.
 4. Proper citation of borrowed code and functions.
+5. Contributors credit.
 
 **Finalize and Share:**
 Once satisfied with the synthesizer and documentation, finalize the project and share it with peers or instructor for feedback.
