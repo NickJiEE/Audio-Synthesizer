@@ -5,10 +5,12 @@ The controls provided by a synthesizer depend on the kind of applications the sy
 
 **Installation:**
 
-- Run the Synthesizer Project installer file
-- If prompted to install dependencies such as DSP System toolbox, do so
-- Project should appear in MATLAB apps
-- Run the app
+- Log into MATLAB
+- Go to MATLAB Drive, upload 'Audio_Synthesizer.mlappinstall'
+- Go to MATLAB, under "APPS" tab, click "Install App"
+- Select "Audio_Synthesizer" from the MATLAB Drive
+- Install dependencies such as DSP System toolbox is prompted
+- Run the installed App "ECE 45 Synthesizer Project"
 
 **Envelopes:** a table of data points that is output over a specified period of time.
 An x-y plot that shows how any given attribute of the output signal (such as pitch) should evolveover time. 
