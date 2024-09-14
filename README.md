@@ -3,6 +3,8 @@ An **audio synthesizer** that converts mechanical or electrical energy into soun
 
 The controls provided by a synthesizer depend on the kind of applications the synthesizer is designed for. While some synthesizer controls are used adjust the most basic physical properties of the generated sound output, namely, the amplitude (which determines the loudness or intensity) and the pitch (the audio frequency, which determines how shrill the generated sound is), others serve more sophisticated purposes such as changing the resonant frequency of the low-pass filter through which the input signal is passed. 
 
+![image](https://github.com/user-attachments/assets/294158f6-fcad-4dc5-b34b-822dea192e4b)
+
 **Installation:**
 
 - Log into MATLAB
