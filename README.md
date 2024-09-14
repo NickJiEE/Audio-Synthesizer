@@ -7,7 +7,7 @@ The controls provided by a synthesizer depend on the kind of applications the sy
   <img src="https://github.com/user-attachments/assets/294158f6-fcad-4dc5-b34b-822dea192e4b" />
 </p>
 
-**Installation:**
+### **Installation**
 
 - Log into MATLAB
 - Go to MATLAB Drive, upload 'Audio_Synthesizer.mlappinstall'
@@ -15,6 +15,8 @@ The controls provided by a synthesizer depend on the kind of applications the sy
 - Select "Audio_Synthesizer" from the MATLAB Drive
 - Install dependencies such as DSP System toolbox is prompted
 - Run the installed App "ECE 45 Synthesizer Project"
+
+### **Properties**
 
 **Envelopes:** a table of data points that is output over a specified period of time.
 An x-y plot that shows how any given attribute of the output signal (such as pitch) should evolveover time. 
@@ -36,7 +38,7 @@ Envelopes enable a synthesizer to change sound characteristics **automatically**
 
 **Plan:** Using MATLAB, write a code to design a synthesizer. Choose an oscillator waveform and add to it a linear filter with adjustable parameters to obtain different sounds.
 
-**Procedures:**
+## **Procedures**
 
 **Set Up MATLAB Environment:**
 Ensure MATLAB is installed on the system. If not, download and install it from MathWorks' official website. Familiarize with basic MATLAB syntax and functionalities if haven't already.
