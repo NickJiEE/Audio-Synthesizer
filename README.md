@@ -1,5 +1,5 @@
 # Audio-Synthesizer
-An **audio synthesizer** that converts mechanical or electrical energy into sound energy and often use controls that enable the user to adjust the **properties** of the generated sound. 
+An **audio synthesizer** program that enables the user to adjust the **properties** of the generated sound. 
 
 The controls provided by a synthesizer depend on the kind of applications the synthesizer is designed for. While some synthesizer controls are used adjust the most basic physical properties of the generated sound output, namely, the amplitude (which determines the loudness or intensity) and the pitch (the audio frequency, which determines how shrill the generated sound is), others serve more sophisticated purposes such as changing the resonant frequency of the low-pass filter through which the input signal is passed. 
 
